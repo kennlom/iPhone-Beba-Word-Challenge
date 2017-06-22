@@ -1,0 +1,1124 @@
+TWordChallenge
+v7
+r1
+cCheck dependencies
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/Default.png
+c000000004A4549C90000000000002B41
+t1246054857
+s11073
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/EndGame.xib
+c000000004AD6BE6C0000000000009C24
+t1255587436
+s39972
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/Game.xib
+c000000004AD6BE1100000000000097DF
+t1255587345
+s38879
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/GameMode.xib
+c000000004AD6BE830000000000005EA5
+t1255587459
+s24229
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/Help.xib
+c000000004AD6BEE50000000000004E26
+t1255587557
+s20006
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/Icon.png
+c000000004AD694920000000000000B25
+t1255576722
+s2853
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/Intro.xib
+c000000004AD3B6A60000000000001EC2
+t1255388838
+s7874
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/MainWindow.xib
+c000000004ABC3A11000000000000286E
+t1253849617
+s10350
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/NextLevel.xib
+c000000004AD6C86200000000000065EC
+t1255589986
+s26092
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/Paused.xib
+c000000004AD6C0740000000000009975
+t1255587956
+s39285
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/PostScore.xib
+c000000004AD6BF8B00000000000069EB
+t1255587723
+s27115
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/SavedGame.xib
+c000000004AD6C6AB000000000000B052
+t1255589547
+s45138
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/SavedGameCellScreen.xib
+c000000004AD426120000000000004726
+t1255417362
+s18214
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/Start.xib
+c000000004AD6BCE90000000000003A08
+t1255587049
+s14856
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/TopScore.xib
+c000000004AD7BB7100000000000057BC
+t1255652209
+s22460
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/TopScoreCell.xib
+c000000004ACBFE1500000000000040D1
+t1254882837
+s16593
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/Winner.xib
+c000000004AD6C08C0000000000004055
+t1255587980
+s16469
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/a.png
+c000000004A1770F10000000000000160
+t1243050225
+s352
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/ambiental.mp3
+c000000004AD50E810000000000013B1A
+t1255476865
+s80666
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/b.png
+c000000004A18129E000000000000016C
+t1243091614
+s364
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/beba.sqlite
+c000000004AD81078000000000010C000
+t1255673976
+s1097728
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/bgkBackground.png
+c000000004AD41FC200000000000067AC
+t1255415746
+s26540
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/bgkGameScreen.png
+c000000004AD506F7000000000000B66C
+t1255474935
+s46700
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/bgkGameStats.png
+c000000004AD6C3040000000000005889
+t1255588612
+s22665
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/bgkInfo.png
+c000000004AD423F200000000000077E0
+t1255416818
+s30688
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/bgkStart.png
+c000000004AD51B010000000000013F17
+t1255480065
+s81687
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/bgkWidescreen.png
+c000000004AD6C8130000000000006B6C
+t1255589907
+s27500
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/bgkWinner.png
+c000000004AD2D9E1000000000000A756
+t1255332321
+s42838
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/bonus.aif
+c000000004ABFBA03000000000004B402
+t1254078979
+s308226
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/btnContinueGame.png
+c000000004AD6C56400000000000018E6
+t1255589220
+s6374
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/btnContinueLevel.png
+c000000004AD552DA0000000000001131
+t1255494362
+s4401
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/btnContinueSavedGame.png
+c000000004AD50B500000000000001A87
+t1255476048
+s6791
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/btnDiscardGame.png
+c000000004AD6C6540000000000000CA7
+t1255589460
+s3239
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/btnEasy.png
+c000000004AD50AD90000000000000B7C
+t1255475929
+s2940
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/btnHard.png
+c000000004AD50AFE0000000000000B0F
+t1255475966
+s2831
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/btnLetter.png
+c000000004AD42FC100000000000005A0
+t1255419841
+s1440
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/btnLetterUnderscore.png
+c000000004AD507E700000000000005C2
+t1255475175
+s1474
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/btnNormal.png
+c000000004AD50AEC0000000000000CD0
+t1255475948
+s3280
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/btnOk.png
+c000000004AD430AA00000000000009C2
+t1255420074
+s2498
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/btnPostScore.png
+c000000004AD50AB400000000000011B5
+t1255475892
+s4533
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/btnQuestion.png
+c000000004AD4305D000000000000075E
+t1255419997
+s1886
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/btnQuit.png
+c000000004AD10EFA0000000000000EAD
+t1255214842
+s3757
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/btnResume.png
+c000000004AD10DEE00000000000015E7
+t1255214574
+s5607
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/btnStartGame.png
+c000000004AD41C4600000000000014FA
+t1255414854
+s5370
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/btnTimeChallenge.png
+c000000004AD129530000000000001E51
+t1255221587
+s7761
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/btnTopScore.png
+c000000004AD41BFA000000000000171C
+t1255414778
+s5916
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/btnViewTopPlayer.png
+c000000004AD50B8A00000000000012DE
+t1255476106
+s4830
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Info.plist
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/EndGame.nib
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/Game.nib
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/GameMode.nib
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/Help.nib
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/Intro.nib
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/NextLevel.nib
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/Paused.nib
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/PostScore.nib
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/SavedGame.nib
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/SavedGameCellScreen.nib
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/Start.nib
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/TopScore.nib
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/TopScoreCell.nib
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/Winner.nib
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/a.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/ambiental.mp3
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/b.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/beba.sqlite
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/bgkBackground.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/bgkGameScreen.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/bgkGameStats.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/bgkInfo.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/bgkStart.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/bgkWidescreen.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/bgkWinner.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/bonus.aif
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/btnContinueGame.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/btnContinueLevel.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/btnContinueSavedGame.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/btnDiscardGame.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/btnEasy.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/btnHard.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/btnLetter.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/btnLetterUnderscore.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/btnNormal.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/btnOk.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/btnPostScore.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/btnQuestion.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/btnQuit.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/btnResume.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/btnStartGame.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/btnTimeChallenge.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/btnTopScore.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/btnViewTopPlayer.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/c.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/d.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/e.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/f.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/g.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/game.sqlite
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/h.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/i.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/imgArrow.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/imgBackToStart.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/imgClose.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/imgGoBack.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/imgGoBack2.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/imgLoading.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/imgLogo.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/imgQuestion.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/imgRefresh.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/imgSkipWord.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/imgSpin.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/j.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/k.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/l.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/lost.aif
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/m.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/n.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/o.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/p.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/q.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/r.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/s.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/score.aif
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/spin.aif
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/t.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/time.aif
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/touch.aif
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/txtAbout.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/txtTopScore.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/txtTopScoreHeader.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/u.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/v.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/w.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/x.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/y.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Resources/z.png
+t2
+s0
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/c.png
+c000000004A1812B4000000000000013F
+t1243091636
+s319
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/d.png
+c000000004A1812C50000000000000169
+t1243091653
+s361
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/e.png
+c000000004A1812D6000000000000015D
+t1243091670
+s349
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/f.png
+c000000004A1812F20000000000000122
+t1243091698
+s290
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/g.png
+c000000004A18130B0000000000000195
+t1243091723
+s405
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/game.sqlite
+c000000004AD2D2550000000000001800
+t1255330389
+s6144
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/h.png
+c000000004A181317000000000000012F
+t1243091735
+s303
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/i.png
+c000000004A18132600000000000000DE
+t1243091750
+s222
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/imgArrow.png
+c000000004AD6C3670000000000000232
+t1255588711
+s562
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/imgBackToStart.png
+c000000004ABD741400000000000057ED
+t1253930004
+s22509
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/imgClose.png
+c000000004AC59EDB00000000000007B0
+t1254465243
+s1968
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/imgGoBack.png
+c000000004AC5684D00000000000004BA
+t1254451277
+s1210
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/imgGoBack2.png
+c000000004AC2F02D000000000000072A
+t1254289453
+s1834
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/imgLoading.png
+c000000004AC579740000000000000221
+t1254455668
+s545
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/imgLogo.png
+c000000004AC9155E00000000000024AC
+t1254692190
+s9388
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/imgQuestion.png
+c000000004AD0DF3400000000000004E5
+t1255202612
+s1253
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/imgRefresh.png
+c000000004AC5683200000000000002C9
+t1254451250
+s713
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/imgSkipWord.png
+c000000004ABEAD1C0000000000000BEE
+t1254010140
+s3054
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/imgSpin.png
+c000000004A176D4A0000000000000D36
+t1243049290
+s3382
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/j.png
+c000000004A1813440000000000000120
+t1243091780
+s288
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/k.png
+c000000004A181354000000000000016A
+t1243091796
+s362
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/l.png
+c000000004A18136900000000000000C0
+t1243091817
+s192
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/lost.aif
+c000000004AD2E332000000000000BBB8
+t1255334706
+s48056
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/m.png
+c000000004A1813770000000000000151
+t1243091831
+s337
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/n.png
+c000000004A1813890000000000000122
+t1243091849
+s290
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/o.png
+c000000004A1813930000000000000169
+t1243091859
+s361
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/p.png
+c000000004A1813A60000000000000163
+t1243091878
+s355
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/q.png
+c000000004A1813B90000000000000161
+t1243091897
+s353
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/r.png
+c000000004A1813C800000000000000FB
+t1243091912
+s251
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/s.png
+c000000004A1813D60000000000000146
+t1243091926
+s326
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/score.aif
+c000000004ABFE1250000000000006048
+t1254088997
+s24648
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/spin.aif
+c000000004ABFE2C0000000000000986C
+t1254089408
+s39020
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/t.png
+c000000004A1813E50000000000000121
+t1243091941
+s289
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/time.aif
+c000000004ACC23E00000000000002E26
+t1254892512
+s11814
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/touch.aif
+c000000004ABFB8610000000000002DE6
+t1254078561
+s11750
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/txtAbout.png
+c000000004AD6B51C000000000000044E
+t1255585052
+s1102
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/txtTopScore.png
+c000000004AD424E40000000000000E27
+t1255417060
+s3623
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/txtTopScoreHeader.png
+c000000004AD4246B000000000000068C
+t1255416939
+s1676
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/u.png
+c000000004A1813F80000000000000130
+t1243091960
+s304
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/v.png
+c000000004A1814170000000000000155
+t1243091991
+s341
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/w.png
+c000000004A18142E000000000000018E
+t1243092014
+s398
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/x.png
+c000000004A1814400000000000000148
+t1243092032
+s328
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/y.png
+c000000004A18144B0000000000000163
+t1243092043
+s355
+
+N/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/z.png
+c000000004A1814590000000000000150
+t1243092057
+s336
+
+NWordChallenge-Info.plist
+c000000004B0959180000000000000425
+t1258903832
+s1061
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304743386#304743386#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos3.0'1(4@58"error: There is no SDK with the name or path 'iphoneos3.0'304743386#18446744073709551615#0#0(1@0"0(0#1#0"32651513917735028#0"0#
+
+CCompileXIB "/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/EndGame.xib"
+r0
+
+CCompileXIB "/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/Game.xib"
+r0
+
+CCompileXIB "/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/GameMode.xib"
+r0
+
+CCompileXIB "/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/Help.xib"
+r0
+
+CCompileXIB "/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/Intro.xib"
+r0
+
+CCompileXIB "/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/NextLevel.xib"
+r0
+
+CCompileXIB "/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/Paused.xib"
+r0
+
+CCompileXIB "/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/PostScore.xib"
+r0
+
+CCompileXIB "/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/SavedGame.xib"
+r0
+
+CCompileXIB "/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/SavedGameCellScreen.xib"
+r0
+
+CCompileXIB "/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/Start.xib"
+r0
+
+CCompileXIB "/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/TopScore.xib"
+r0
+
+CCompileXIB "/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/TopScoreCell.xib"
+r0
+
+CCompileXIB "/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/Winner.xib"
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/Icon.png Icon.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/a.png a.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/ambiental.mp3 ambiental.mp3
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/b.png b.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/beba.sqlite beba.sqlite
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/bgkBackground.png bgkBackground.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/bgkGameScreen.png bgkGameScreen.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/bgkGameStats.png bgkGameStats.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/bgkInfo.png bgkInfo.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/bgkStart.png bgkStart.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/bgkWidescreen.png bgkWidescreen.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/bgkWinner.png bgkWinner.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/bonus.aif bonus.aif
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/btnContinueGame.png btnContinueGame.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/btnContinueLevel.png btnContinueLevel.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/btnContinueSavedGame.png btnContinueSavedGame.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/btnDiscardGame.png btnDiscardGame.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/btnEasy.png btnEasy.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/btnHard.png btnHard.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/btnLetter.png btnLetter.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/btnLetterUnderscore.png btnLetterUnderscore.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/btnNormal.png btnNormal.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/btnOk.png btnOk.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/btnPostScore.png btnPostScore.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/btnQuestion.png btnQuestion.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/btnQuit.png btnQuit.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/btnResume.png btnResume.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/btnStartGame.png btnStartGame.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/btnTimeChallenge.png btnTimeChallenge.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/btnTopScore.png btnTopScore.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/btnViewTopPlayer.png btnViewTopPlayer.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/c.png c.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/d.png d.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/e.png e.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/f.png f.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/g.png g.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/game.sqlite game.sqlite
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/h.png h.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/i.png i.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/imgArrow.png imgArrow.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/imgBackToStart.png imgBackToStart.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/imgClose.png imgClose.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/imgGoBack.png imgGoBack.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/imgGoBack2.png imgGoBack2.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/imgLoading.png imgLoading.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/imgLogo.png imgLogo.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/imgQuestion.png imgQuestion.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/imgRefresh.png imgRefresh.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/imgSkipWord.png imgSkipWord.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/imgSpin.png imgSpin.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/j.png j.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/k.png k.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/l.png l.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/lost.aif lost.aif
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/m.png m.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/n.png n.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/o.png o.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/p.png p.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/q.png q.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/r.png r.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/s.png s.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/score.aif score.aif
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/spin.aif spin.aif
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/t.png t.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/time.aif time.aif
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/touch.aif touch.aif
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/txtAbout.png txtAbout.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/txtTopScore.png txtTopScore.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/txtTopScoreHeader.png txtTopScoreHeader.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/u.png u.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/v.png v.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/w.png w.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/x.png x.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/y.png y.png
+r0
+
+CCpResource build/Debug/WordChallenge.app/Contents/Resources/z.png z.png
+r0
+
+CProcessInfoPlistFile "/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app/Contents/Info.plist" WordChallenge-Info.plist
+r0
+
+CTouch "/Users/beba/Desktop/Projects 2/Beba/Apps/Beba Word Challenge/WordChallenge/build/Debug/WordChallenge.app"
+r0
+

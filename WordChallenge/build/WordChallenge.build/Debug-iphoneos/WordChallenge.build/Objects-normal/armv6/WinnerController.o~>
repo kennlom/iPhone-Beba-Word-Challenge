@@ -1,0 +1,10 @@
+In file included from /Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WinnerController.m:9:
+/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WinnerController.h:17: error: expected specifier-qualifier-list before 'AVAudioPlayer'
+/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WinnerController.m: In function '-[WinnerController dealloc]':
+/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WinnerController.m:70: error: 'audioPlayer' undeclared (first use in this function)
+/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WinnerController.m:70: error: (Each undeclared identifier is reported only once
+/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WinnerController.m:70: error: for each function it appears in.)
+/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WinnerController.m: In function '-[WinnerController playLoopedSound]':
+/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WinnerController.m:76: error: 'audioPlayer' undeclared (first use in this function)
+/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WinnerController.m: In function '-[WinnerController goBackToStartScreen]':
+/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WinnerController.m:87: error: 'audioPlayer' undeclared (first use in this function)

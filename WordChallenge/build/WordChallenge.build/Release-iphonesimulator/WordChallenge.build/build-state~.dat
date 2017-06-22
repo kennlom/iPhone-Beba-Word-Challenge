@@ -1,0 +1,1889 @@
+TWordChallenge
+v7
+r0
+t291424720.619267
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/Info.plist" WordChallenge-Info.plist
+cCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/MainWindow.xib"
+cCpResource build/Release-iphonesimulator/WordChallenge.app/Default.png Default.png
+cCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Intro.xib"
+cCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Start.xib"
+cCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Game.xib"
+cCpResource build/Release-iphonesimulator/WordChallenge.app/a.png a.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/e.png e.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/g.png g.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/n.png n.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/o.png o.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/r.png r.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/b.png b.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/c.png c.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/d.png d.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/f.png f.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/h.png h.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/i.png i.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/j.png j.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/k.png k.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/l.png l.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/m.png m.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/p.png p.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/q.png q.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/s.png s.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/t.png t.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/u.png u.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/v.png v.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/w.png w.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/x.png x.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/y.png y.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/z.png z.png
+cCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/EndGame.xib"
+cCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/NextLevel.xib"
+cCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameMode.xib"
+cCpResource build/Release-iphonesimulator/WordChallenge.app/touch.aif touch.aif
+cCpResource build/Release-iphonesimulator/WordChallenge.app/score.aif score.aif
+cCpResource build/Release-iphonesimulator/WordChallenge.app/spin.aif spin.aif
+cCpResource build/Release-iphonesimulator/WordChallenge.app/bonus.aif bonus.aif
+cCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/SavedGame.xib"
+cCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/SavedGameCellScreen.xib"
+cCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Help.xib"
+cCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/TopScore.xib"
+cCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/TopScoreCell.xib"
+cCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PostScore.xib"
+cCpResource build/Release-iphonesimulator/WordChallenge.app/time.aif time.aif
+cCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Paused.xib"
+cCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Winner.xib"
+cCpResource build/Release-iphonesimulator/WordChallenge.app/lost.aif lost.aif
+cCpResource build/Release-iphonesimulator/WordChallenge.app/game.sqlite game.sqlite
+cCpResource build/Release-iphonesimulator/WordChallenge.app/btnTopScore.png btnTopScore.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/btnStartGame.png btnStartGame.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/bgkBackground.png bgkBackground.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/bgkInfo.png bgkInfo.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/txtTopScoreHeader.png txtTopScoreHeader.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/txtTopScore.png txtTopScore.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/btnLetter.png btnLetter.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/btnQuestion.png btnQuestion.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/btnOk.png btnOk.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/bgkGameScreen.png bgkGameScreen.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/btnLetterUnderscore.png btnLetterUnderscore.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/btnContinueSavedGame.png btnContinueSavedGame.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/btnEasy.png btnEasy.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/btnHard.png btnHard.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/btnNormal.png btnNormal.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/btnPostScore.png btnPostScore.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/btnViewTopPlayer.png btnViewTopPlayer.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/ambiental.mp3 ambiental.mp3
+cCpResource build/Release-iphonesimulator/WordChallenge.app/btnContinueLevel.png btnContinueLevel.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/Icon.png Icon.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/txtAbout.png txtAbout.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/bgkWinner.png bgkWinner.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/bgkStart.png bgkStart.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/imgLogo.png imgLogo.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/btnTimeChallenge.png btnTimeChallenge.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/imgLoading.png imgLoading.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/imgSkipWord.png imgSkipWord.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/imgSpin.png imgSpin.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/imgBackToStart.png imgBackToStart.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/imgClose.png imgClose.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/imgGoBack.png imgGoBack.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/imgRefresh.png imgRefresh.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/btnQuit.png btnQuit.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/btnResume.png btnResume.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/imgQuestion.png imgQuestion.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/imgGoBack2.png imgGoBack2.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/bgkGameStats.png bgkGameStats.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/imgArrow.png imgArrow.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/btnContinueGame.png btnContinueGame.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/btnDiscardGame.png btnDiscardGame.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/bgkWidescreen.png bgkWidescreen.png
+cCpResource build/Release-iphonesimulator/WordChallenge.app/beba.sqlite beba.sqlite
+cProcessPCH /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch.gch WordChallenge_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/main.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/WordChallengeAppDelegate.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/WordChallengeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/IntroScreenController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/IntroScreenController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/StartScreenController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/StartScreenController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/GameScreenController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameScreenController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/EndGameController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/EndGameController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/NextLevelController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/NextLevelController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/GameModeController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameModeController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/SavedGameController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/SavedGameController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/SavedGameCell.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/SavedGameCell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/HelpController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/HelpController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/TopScoreController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/TopScoreController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/XmlParser.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/XmlParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/TopScoreCell.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/TopScoreCell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/PostScoreController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PostScoreController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/PausedController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PausedController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/WinnerController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WinnerController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/WordChallenge" normal i386
+cGenerateDSYMFile "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app.dSYM" "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/WordChallenge"
+cTouch "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004A0BB0320000000000010F60
+t1242279986
+s69472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioPlayer.h
+c000000004A0BB0300000000000000ED7
+t1242279984
+s3799
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004A0BB03000000000000000EB
+t1242279984
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A0DADCB00000000001816A0
+t1242410443
+s1578656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004A0DADB60000000000000A22
+t1242410422
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004748A1090000000000002500
+t1195942153
+s9472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/sqlite3.h
+c000000004A0BA76A000000000003D86F
+t1242277738
+s252015
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/lib/libsqlite3.0.dylib
+c000000004A0BA78C00000000000C36F0
+t1242277772
+s800496
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/SavedGameCell.h
+c000000004AC29D6F000000000000026E
+t1254268271
+s622
+i<UIKit/UIKit.h>
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/SavedGameCell.m
+c000000004AD3F3DD0000000000000348
+t1255404509
+s840
+i"SavedGameCell.h"
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/TopScoreCell.h
+c000000004AC54C3200000000000002CB
+t1254444082
+s715
+i<UIKit/UIKit.h>
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/TopScoreCell.m
+c000000004AD3F409000000000000036E
+t1255404553
+s878
+i"TopScoreCell.h"
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/WordChallengeAppDelegate.h
+c000000004AD83F310000000000002A1C
+t1255685937
+s10780
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioToolbox.h>
+i<AVFoundation/AVAudioPlayer.h>
+i<AVFoundation/AVFoundation.h>
+i<CommonCrypto/CommonDigest.h>
+i<sqlite3.h>
+i"IntroScreenController.h"
+i"StartScreenController.h"
+i"GameScreenController.h"
+i"EndGameController.h"
+i"NextLevelController.h"
+i"GameModeController.h"
+i"SavedGameController.h"
+i"HelpController.h"
+i"TopScoreController.h"
+i"PostScoreController.h"
+i"PausedController.h"
+i"WinnerController.h"
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/WordChallengeAppDelegate.m
+c000000004B0957330000000000005DE1
+t1258903347
+s24033
+i"WordChallengeAppDelegate.h"
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/XmlParser.h
+c000000004AD2CD4900000000000001C0
+t1255329097
+s448
+i<Foundation/Foundation.h>
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/XmlParser.m
+c000000004AD83ECA0000000000000D91
+t1255685834
+s3473
+i"XmlParser.h"
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Default.png
+c000000004A4549C90000000000002B41
+t1246054857
+s11073
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/EndGame.xib
+c000000004AD6BE6C0000000000009C24
+t1255587436
+s39972
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/EndGameController.h
+c000000004AD6B79F0000000000000547
+t1255585695
+s1351
+i<UIKit/UIKit.h>
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/EndGameController.m
+c000000004AD6B79B00000000000018F5
+t1255585691
+s6389
+i"EndGameController.h"
+i"WordChallengeAppDelegate.h"
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Game.xib
+c000000004AD6BE1100000000000097DF
+t1255587345
+s38879
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameMode.xib
+c000000004AD6BE830000000000005EA5
+t1255587459
+s24229
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameModeController.h
+c000000004AD28A7300000000000001B5
+t1255311987
+s437
+i<UIKit/UIKit.h>
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameModeController.m
+c000000004AD3C1A10000000000000BB5
+t1255391649
+s2997
+i"GameModeController.h"
+i"WordChallengeAppDelegate.h"
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameScreenController.h
+c000000004AD56EBA000000000000170C
+t1255501498
+s5900
+i<UIKit/UIKit.h>
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameScreenController.m
+c000000004AD84AAA000000000000CF4D
+t1255688874
+s53069
+i"WordChallengeAppDelegate.h"
+i"GameScreenController.h"
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Help.xib
+c000000004AD6BEE50000000000004E26
+t1255587557
+s20006
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/HelpController.h
+c000000004AD3AF93000000000000014A
+t1255387027
+s330
+i<UIKit/UIKit.h>
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/HelpController.m
+c000000004AD3B5930000000000000740
+t1255388563
+s1856
+i"HelpController.h"
+i"WordChallengeAppDelegate.h"
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Icon.png
+c000000004AD694920000000000000B25
+t1255576722
+s2853
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Intro.xib
+c000000004AD3B6A60000000000001EC2
+t1255388838
+s7874
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/IntroScreenController.h
+c000000004AD3B6F900000000000000EE
+t1255388921
+s238
+i<UIKit/UIKit.h>
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/IntroScreenController.m
+c000000004AD847770000000000000618
+t1255688055
+s1560
+i"IntroScreenController.h"
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/MainWindow.xib
+c000000004ABC3A11000000000000286E
+t1253849617
+s10350
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/NextLevel.xib
+c000000004AD6C86200000000000065EC
+t1255589986
+s26092
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/NextLevelController.h
+c000000004AD5655A00000000000002B0
+t1255499098
+s688
+i<UIKit/UIKit.h>
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/NextLevelController.m
+c000000004AD565ED0000000000001D8F
+t1255499245
+s7567
+i"NextLevelController.h"
+i"WordChallengeAppDelegate.h"
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Paused.xib
+c000000004AD6C0740000000000009975
+t1255587956
+s39285
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PausedController.h
+c000000004AD2D15B00000000000003A4
+t1255330139
+s932
+i<UIKit/UIKit.h>
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PausedController.m
+c000000004AD3F23C00000000000009F7
+t1255404092
+s2551
+i"PausedController.h"
+i"WordChallengeAppDelegate.h"
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PostScore.xib
+c000000004AD6BF8B00000000000069EB
+t1255587723
+s27115
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PostScoreController.h
+c000000004AD7B3FA0000000000000363
+t1255650298
+s867
+i<UIKit/UIKit.h>
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PostScoreController.m
+c000000004AD83F310000000000001E60
+t1255685937
+s7776
+i"PostScoreController.h"
+i"WordChallengeAppDelegate.h"
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/SavedGame.xib
+c000000004AD6C6AB000000000000B052
+t1255589547
+s45138
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/SavedGameCellScreen.xib
+c000000004AD426120000000000004726
+t1255417362
+s18214
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/SavedGameController.h
+c000000004AD6E32E00000000000008B2
+t1255596846
+s2226
+i<UIKit/UIKit.h>
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/SavedGameController.m
+c000000004AD6E3260000000000003D2A
+t1255596838
+s15658
+i"SavedGameController.h"
+i"WordChallengeAppDelegate.h"
+i"SavedGameCell.h"
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Start.xib
+c000000004AD6BCE90000000000003A08
+t1255587049
+s14856
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/StartScreenController.h
+c000000004AD3B76700000000000001B9
+t1255389031
+s441
+i<UIKit/UIKit.h>
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/StartScreenController.m
+c000000004AD51A5E0000000000000F03
+t1255479902
+s3843
+i"StartScreenController.h"
+i"WordChallengeAppDelegate.h"
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/TopScore.xib
+c000000004AD7BB7100000000000057BC
+t1255652209
+s22460
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/TopScoreCell.xib
+c000000004ACBFE1500000000000040D1
+t1254882837
+s16593
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/TopScoreController.h
+c000000004AD7BB2F00000000000005BF
+t1255652143
+s1471
+i<UIKit/UIKit.h>
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/TopScoreController.m
+c000000004AD8099D0000000000003431
+t1255672221
+s13361
+i"TopScoreController.h"
+i"WordChallengeAppDelegate.h"
+i"XmlParser.h"
+i"TopScoreCell.h"
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Winner.xib
+c000000004AD6C08C0000000000004055
+t1255587980
+s16469
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WinnerController.h
+c000000004AD6DB8E000000000000029E
+t1255594894
+s670
+i<UIKit/UIKit.h>
+i<AVFoundation/AVAudioPlayer.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WinnerController.m
+c000000004AD6DB8A0000000000000A79
+t1255594890
+s2681
+i"WinnerController.h"
+i"WordChallengeAppDelegate.h"
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WordChallenge_Prefix.pch
+c000000004AB96E8300000000000000C3
+t1253666435
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/a.png
+c000000004A1770F10000000000000160
+t1243050225
+s352
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/ambiental.mp3
+c000000004AD50E810000000000013B1A
+t1255476865
+s80666
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/b.png
+c000000004A18129E000000000000016C
+t1243091614
+s364
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/beba.sqlite
+c000000004AD81078000000000010C000
+t1255673976
+s1097728
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/bgkBackground.png
+c000000004AD41FC200000000000067AC
+t1255415746
+s26540
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/bgkGameScreen.png
+c000000004AD506F7000000000000B66C
+t1255474935
+s46700
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/bgkGameStats.png
+c000000004AD6C3040000000000005889
+t1255588612
+s22665
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/bgkInfo.png
+c000000004AD423F200000000000077E0
+t1255416818
+s30688
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/bgkStart.png
+c000000004AD51B010000000000013F17
+t1255480065
+s81687
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/bgkWidescreen.png
+c000000004AD6C8130000000000006B6C
+t1255589907
+s27500
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/bgkWinner.png
+c000000004AD2D9E1000000000000A756
+t1255332321
+s42838
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/bonus.aif
+c000000004ABFBA03000000000004B402
+t1254078979
+s308226
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/btnContinueGame.png
+c000000004AD6C56400000000000018E6
+t1255589220
+s6374
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/btnContinueLevel.png
+c000000004AD552DA0000000000001131
+t1255494362
+s4401
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/btnContinueSavedGame.png
+c000000004AD50B500000000000001A87
+t1255476048
+s6791
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/btnDiscardGame.png
+c000000004AD6C6540000000000000CA7
+t1255589460
+s3239
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/btnEasy.png
+c000000004AD50AD90000000000000B7C
+t1255475929
+s2940
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/btnHard.png
+c000000004AD50AFE0000000000000B0F
+t1255475966
+s2831
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/btnLetter.png
+c000000004AD42FC100000000000005A0
+t1255419841
+s1440
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/btnLetterUnderscore.png
+c000000004AD507E700000000000005C2
+t1255475175
+s1474
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/btnNormal.png
+c000000004AD50AEC0000000000000CD0
+t1255475948
+s3280
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/btnOk.png
+c000000004AD430AA00000000000009C2
+t1255420074
+s2498
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/btnPostScore.png
+c000000004AD50AB400000000000011B5
+t1255475892
+s4533
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/btnQuestion.png
+c000000004AD4305D000000000000075E
+t1255419997
+s1886
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/btnQuit.png
+c000000004AD10EFA0000000000000EAD
+t1255214842
+s3757
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/btnResume.png
+c000000004AD10DEE00000000000015E7
+t1255214574
+s5607
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/btnStartGame.png
+c000000004AD41C4600000000000014FA
+t1255414854
+s5370
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/btnTimeChallenge.png
+c000000004AD129530000000000001E51
+t1255221587
+s7761
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/btnTopScore.png
+c000000004AD41BFA000000000000171C
+t1255414778
+s5916
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/btnViewTopPlayer.png
+c000000004AD50B8A00000000000012DE
+t1255476106
+s4830
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app
+t1269731920
+s3264
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app.dSYM
+t1269731920
+s102
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/Default.png
+t1255590059
+s11073
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/EndGame.nib
+t1255688248
+s7699
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/Game.nib
+t1255688247
+s7926
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/GameMode.nib
+t1255688248
+s5772
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/Help.nib
+t1255688248
+s4443
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/Icon.png
+t1255590062
+s2853
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/Info.plist
+t1259135780
+s728
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/Intro.nib
+t1255688247
+s1673
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/MainWindow.nib
+t1255688247
+s1337
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/NextLevel.nib
+t1255688248
+s5531
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/Paused.nib
+t1255688249
+s7091
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/PkgInfo
+t1259135780
+s8
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/PostScore.nib
+t1255688249
+s5996
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/SavedGame.nib
+t1255688248
+s8767
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/SavedGameCellScreen.nib
+t1255688248
+s4048
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/Start.nib
+t1255688247
+s3654
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/TopScore.nib
+t1255688249
+s5211
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/TopScoreCell.nib
+t1255688249
+s3906
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/Winner.nib
+t1255688249
+s4115
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/WordChallenge
+t1269731920
+s170188
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/a.png
+t1255590060
+s352
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/ambiental.mp3
+t1255590062
+s80666
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/b.png
+t1255590060
+s364
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/beba.sqlite
+t1255674455
+s1097728
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/bgkBackground.png
+t1255590062
+s26540
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/bgkGameScreen.png
+t1255590062
+s46700
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/bgkGameStats.png
+t1255590062
+s22665
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/bgkInfo.png
+t1255590062
+s30688
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/bgkStart.png
+t1255590062
+s81687
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/bgkWidescreen.png
+t1255590062
+s27500
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/bgkWinner.png
+t1255590062
+s42838
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/bonus.aif
+t1255590060
+s308226
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/btnContinueGame.png
+t1255590062
+s6374
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/btnContinueLevel.png
+t1255590062
+s4401
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/btnContinueSavedGame.png
+t1255590062
+s6791
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/btnDiscardGame.png
+t1255590062
+s3239
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/btnEasy.png
+t1255590062
+s2940
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/btnHard.png
+t1255590062
+s2831
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/btnLetter.png
+t1255590062
+s1440
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/btnLetterUnderscore.png
+t1255590062
+s1474
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/btnNormal.png
+t1255590062
+s3280
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/btnOk.png
+t1255590062
+s2498
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/btnPostScore.png
+t1255590062
+s4533
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/btnQuestion.png
+t1255590062
+s1886
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/btnQuit.png
+t1255590062
+s3757
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/btnResume.png
+t1255590062
+s5607
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/btnStartGame.png
+t1255590062
+s5370
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/btnTimeChallenge.png
+t1255590062
+s7761
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/btnTopScore.png
+t1255590062
+s5916
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/btnViewTopPlayer.png
+t1255590062
+s4830
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/c.png
+t1255590060
+s319
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/d.png
+t1255590060
+s361
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/e.png
+t1255590060
+s349
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/f.png
+t1255590060
+s290
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/g.png
+t1255590060
+s405
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/game.sqlite
+t1255590062
+s6144
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/h.png
+t1255590060
+s303
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/i.png
+t1255590060
+s222
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/imgArrow.png
+t1255590062
+s562
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/imgBackToStart.png
+t1255590062
+s22509
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/imgClose.png
+t1255590062
+s1968
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/imgGoBack.png
+t1255590062
+s1210
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/imgGoBack2.png
+t1255590062
+s1834
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/imgLoading.png
+t1255590062
+s545
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/imgLogo.png
+t1255590062
+s9388
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/imgQuestion.png
+t1255590062
+s1253
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/imgRefresh.png
+t1255590062
+s713
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/imgSkipWord.png
+t1255590062
+s3054
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/imgSpin.png
+t1255590062
+s3382
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/j.png
+t1255590060
+s288
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/k.png
+t1255590060
+s362
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/l.png
+t1255590060
+s192
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/lost.aif
+t1255590062
+s48056
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/m.png
+t1255590060
+s337
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/n.png
+t1255590060
+s290
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/o.png
+t1255590060
+s361
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/p.png
+t1255590060
+s355
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/q.png
+t1255590060
+s353
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/r.png
+t1255590060
+s251
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/s.png
+t1255590060
+s326
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/score.aif
+t1255590060
+s24648
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/spin.aif
+t1255590060
+s39020
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/t.png
+t1255590060
+s289
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/time.aif
+t1255590062
+s11814
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/touch.aif
+t1255590060
+s11750
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/txtAbout.png
+t1255590062
+s1102
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/txtTopScore.png
+t1255590062
+s3623
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/txtTopScoreHeader.png
+t1255590062
+s1676
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/u.png
+t1255590060
+s304
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/v.png
+t1255590060
+s341
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/w.png
+t1255590060
+s398
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/x.png
+t1255590060
+s328
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/y.png
+t1255590060
+s355
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/z.png
+t1255590060
+s336
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/EndGameController.o
+t1269731919
+s56488
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/GameModeController.o
+t1269731919
+s44336
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/GameScreenController.o
+t1269731920
+s131652
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/HelpController.o
+t1269731919
+s42332
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/IntroScreenController.o
+t1269731919
+s29676
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/NextLevelController.o
+t1269731919
+s55376
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/PausedController.o
+t1269731920
+s48536
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/PostScoreController.o
+t1269731920
+s61660
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/SavedGameCell.o
+t1269731919
+s20968
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/SavedGameController.o
+t1269731919
+s82576
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/StartScreenController.o
+t1269731919
+s45400
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/TopScoreCell.o
+t1269731920
+s21772
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/TopScoreController.o
+t1269731920
+s72652
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/WinnerController.o
+t1269731920
+s47560
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/WordChallenge.LinkFileList
+c000000004BAE924E0000000000000D0C
+t1269731918
+s3340
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/WordChallengeAppDelegate.o
+t1269731919
+s86488
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/XmlParser.o
+t1269731919
+s12556
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/main.o
+t1269731919
+s6020
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/c.png
+c000000004A1812B4000000000000013F
+t1243091636
+s319
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/d.png
+c000000004A1812C50000000000000169
+t1243091653
+s361
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/e.png
+c000000004A1812D6000000000000015D
+t1243091670
+s349
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/f.png
+c000000004A1812F20000000000000122
+t1243091698
+s290
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/g.png
+c000000004A18130B0000000000000195
+t1243091723
+s405
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/game.sqlite
+c000000004AD2D2550000000000001800
+t1255330389
+s6144
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/h.png
+c000000004A181317000000000000012F
+t1243091735
+s303
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/i.png
+c000000004A18132600000000000000DE
+t1243091750
+s222
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/imgArrow.png
+c000000004AD6C3670000000000000232
+t1255588711
+s562
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/imgBackToStart.png
+c000000004ABD741400000000000057ED
+t1253930004
+s22509
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/imgClose.png
+c000000004AC59EDB00000000000007B0
+t1254465243
+s1968
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/imgGoBack.png
+c000000004AC5684D00000000000004BA
+t1254451277
+s1210
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/imgGoBack2.png
+c000000004AC2F02D000000000000072A
+t1254289453
+s1834
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/imgLoading.png
+c000000004AC579740000000000000221
+t1254455668
+s545
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/imgLogo.png
+c000000004AC9155E00000000000024AC
+t1254692190
+s9388
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/imgQuestion.png
+c000000004AD0DF3400000000000004E5
+t1255202612
+s1253
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/imgRefresh.png
+c000000004AC5683200000000000002C9
+t1254451250
+s713
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/imgSkipWord.png
+c000000004ABEAD1C0000000000000BEE
+t1254010140
+s3054
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/imgSpin.png
+c000000004A176D4A0000000000000D36
+t1243049290
+s3382
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/j.png
+c000000004A1813440000000000000120
+t1243091780
+s288
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/k.png
+c000000004A181354000000000000016A
+t1243091796
+s362
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/l.png
+c000000004A18136900000000000000C0
+t1243091817
+s192
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/lost.aif
+c000000004AD2E332000000000000BBB8
+t1255334706
+s48056
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/m.png
+c000000004A1813770000000000000151
+t1243091831
+s337
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/main.m
+c000000004AC55DC50000000000000164
+t1254448581
+s356
+i<UIKit/UIKit.h>
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/n.png
+c000000004A1813890000000000000122
+t1243091849
+s290
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/o.png
+c000000004A1813930000000000000169
+t1243091859
+s361
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/p.png
+c000000004A1813A60000000000000163
+t1243091878
+s355
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/q.png
+c000000004A1813B90000000000000161
+t1243091897
+s353
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/r.png
+c000000004A1813C800000000000000FB
+t1243091912
+s251
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/s.png
+c000000004A1813D60000000000000146
+t1243091926
+s326
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/score.aif
+c000000004ABFE1250000000000006048
+t1254088997
+s24648
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/spin.aif
+c000000004ABFE2C0000000000000986C
+t1254089408
+s39020
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/t.png
+c000000004A1813E50000000000000121
+t1243091941
+s289
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/time.aif
+c000000004ACC23E00000000000002E26
+t1254892512
+s11814
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/touch.aif
+c000000004ABFB8610000000000002DE6
+t1254078561
+s11750
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/txtAbout.png
+c000000004AD6B51C000000000000044E
+t1255585052
+s1102
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/txtTopScore.png
+c000000004AD424E40000000000000E27
+t1255417060
+s3623
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/txtTopScoreHeader.png
+c000000004AD4246B000000000000068C
+t1255416939
+s1676
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/u.png
+c000000004A1813F80000000000000130
+t1243091960
+s304
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/v.png
+c000000004A1814170000000000000155
+t1243091991
+s341
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/w.png
+c000000004A18142E000000000000018E
+t1243092014
+s398
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/x.png
+c000000004A1814400000000000000148
+t1243092032
+s328
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/y.png
+c000000004A18144B0000000000000163
+t1243092043
+s355
+
+N/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/z.png
+c000000004A1814590000000000000150
+t1243092057
+s336
+
+N/var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch.gch
+t1269731918
+s12662160
+
+NWordChallenge-Info.plist
+c000000004B0959180000000000000425
+t1258903832
+s1061
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291424718#291424718#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/EndGameController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/EndGameController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291424719.137326
+e291424719.460966
+r1
+xCompileC
+xbuild/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/EndGameController.o
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/EndGameController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/EndGameController.m291424719#291424719#0(0"0(0#0#106"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/EndGameController.m4300911832#2588"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-generated-files.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-own-target-headers.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-all-target-headers.hmap" -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-project-headers.hmap" "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/include" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources/i386" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources" -include /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/EndGameController.m" -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/EndGameController.o"0#
+
+CCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/GameModeController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameModeController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291424719.461062
+e291424719.595486
+r1
+xCompileC
+xbuild/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/GameModeController.o
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameModeController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameModeController.m291424719#291424719#0(0"0(0#0#107"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameModeController.m4300911832#2590"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-generated-files.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-own-target-headers.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-all-target-headers.hmap" -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-project-headers.hmap" "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/include" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources/i386" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources" -include /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameModeController.m" -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/GameModeController.o"0#
+
+CCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/GameScreenController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameScreenController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291424719.131320
+e291424720.301279
+r1
+xCompileC
+xbuild/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/GameScreenController.o
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameScreenController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameScreenController.m291424719#291424720#0(0"0(0#0#109"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameScreenController.m4300911832#2594"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-generated-files.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-own-target-headers.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-all-target-headers.hmap" -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-project-headers.hmap" "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/include" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources/i386" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources" -include /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameScreenController.m" -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/GameScreenController.o"0#
+
+CCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/HelpController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/HelpController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291424719.638597
+e291424719.822441
+r1
+xCompileC
+xbuild/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/HelpController.o
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/HelpController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/HelpController.m291424719#291424719#0(0"0(0#0#103"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/HelpController.m4300911832#2582"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-generated-files.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-own-target-headers.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-all-target-headers.hmap" -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-project-headers.hmap" "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/include" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources/i386" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources" -include /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/HelpController.m" -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/HelpController.o"0#
+
+CCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/IntroScreenController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/IntroScreenController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291424719.058588
+e291424719.137213
+r1
+xCompileC
+xbuild/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/IntroScreenController.o
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/IntroScreenController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/IntroScreenController.m291424719#291424719#0(0"0(0#0#110"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/IntroScreenController.m4300911832#2596"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-generated-files.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-own-target-headers.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-all-target-headers.hmap" -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-project-headers.hmap" "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/include" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources/i386" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources" -include /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/IntroScreenController.m" -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/IntroScreenController.o"0#
+
+CCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/NextLevelController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/NextLevelController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291424719.237803
+e291424719.465940
+r1
+xCompileC
+xbuild/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/NextLevelController.o
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/NextLevelController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/NextLevelController.m291424719#291424719#0(0"0(0#0#108"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/NextLevelController.m4300911832#2592"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-generated-files.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-own-target-headers.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-all-target-headers.hmap" -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-project-headers.hmap" "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/include" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources/i386" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources" -include /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/NextLevelController.m" -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/NextLevelController.o"0#
+
+CCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/PausedController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PausedController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291424720.034288
+e291424720.211890
+r1
+xCompileC
+xbuild/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/PausedController.o
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PausedController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PausedController.m291424720#291424720#0(0"0(0#0#105"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PausedController.m4300911832#2586"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-generated-files.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-own-target-headers.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-all-target-headers.hmap" -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-project-headers.hmap" "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/include" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources/i386" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources" -include /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PausedController.m" -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/PausedController.o"0#
+
+CCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/PostScoreController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PostScoreController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291424719.923065
+e291424720.233934
+r1
+xCompileC
+xbuild/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/PostScoreController.o
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PostScoreController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PostScoreController.m291424719#291424720#0(0"0(0#0#108"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PostScoreController.m4300911832#2592"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-generated-files.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-own-target-headers.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-all-target-headers.hmap" -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-project-headers.hmap" "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/include" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources/i386" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources" -include /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PostScoreController.m" -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/PostScoreController.o"0#
+
+CCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/SavedGameCell.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/SavedGameCell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291424719.595601
+e291424719.707983
+r1
+xCompileC
+xbuild/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/SavedGameCell.o
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/SavedGameCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/SavedGameCell.m291424719#291424719#0(0"0(0#0#110"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/SavedGameCell.m4300911832#2588"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-generated-files.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-own-target-headers.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-all-target-headers.hmap" -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-project-headers.hmap" "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/include" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources/i386" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources" -include /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/SavedGameCell.m" -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/SavedGameCell.o"0#
+
+CCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/SavedGameController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/SavedGameController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291424719.466041
+e291424719.921614
+r1
+xCompileC
+xbuild/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/SavedGameController.o
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/SavedGameController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/SavedGameController.m291424719#291424719#0(0"0(0#0#108"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/SavedGameController.m4300911832#2592"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-generated-files.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-own-target-headers.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-all-target-headers.hmap" -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-project-headers.hmap" "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/include" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources/i386" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources" -include /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/SavedGameController.m" -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/SavedGameController.o"0#
+
+CCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/StartScreenController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/StartScreenController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291424719.059615
+e291424719.237661
+r1
+xCompileC
+xbuild/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/StartScreenController.o
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/StartScreenController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/StartScreenController.m291424719#291424719#0(0"0(0#0#110"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/StartScreenController.m4300911832#2596"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-generated-files.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-own-target-headers.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-all-target-headers.hmap" -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-project-headers.hmap" "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/include" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources/i386" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources" -include /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/StartScreenController.m" -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/StartScreenController.o"0#
+
+CCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/TopScoreCell.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/TopScoreCell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291424719.907493
+e291424720.034170
+r1
+xCompileC
+xbuild/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/TopScoreCell.o
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/TopScoreCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/TopScoreCell.m291424719#291424720#0(0"0(0#0#109"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/TopScoreCell.m4300911832#2586"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-generated-files.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-own-target-headers.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-all-target-headers.hmap" -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-project-headers.hmap" "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/include" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources/i386" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources" -include /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/TopScoreCell.m" -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/TopScoreCell.o"0#
+
+CCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/TopScoreController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/TopScoreController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291424719.708154
+e291424720.093310
+r1
+xCompileC
+xbuild/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/TopScoreController.o
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/TopScoreController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/TopScoreController.m291424719#291424720#0(0"0(0#0#107"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/TopScoreController.m4300911832#2590"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-generated-files.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-own-target-headers.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-all-target-headers.hmap" -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-project-headers.hmap" "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/include" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources/i386" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources" -include /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/TopScoreController.m" -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/TopScoreController.o"0#
+
+CCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/WinnerController.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WinnerController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291424720.093418
+e291424720.257442
+r1
+xCompileC
+xbuild/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/WinnerController.o
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WinnerController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WinnerController.m291424720#291424720#0(0"0(0#0#105"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WinnerController.m4300911832#2586"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-generated-files.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-own-target-headers.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-all-target-headers.hmap" -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-project-headers.hmap" "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/include" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources/i386" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources" -include /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WinnerController.m" -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/WinnerController.o"0#
+
+CCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/WordChallengeAppDelegate.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/WordChallengeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291424719.057638
+e291424719.638491
+r1
+xCompileC
+xbuild/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/WordChallengeAppDelegate.o
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/WordChallengeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@129"Compile /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/WordChallengeAppDelegate.m291424719#291424719#0(0"0(0#0#121"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/WordChallengeAppDelegate.m4300911832#2610"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-generated-files.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-own-target-headers.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-all-target-headers.hmap" -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-project-headers.hmap" "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/include" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources/i386" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources" -include /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/WordChallengeAppDelegate.m" -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/WordChallengeAppDelegate.o"0#
+
+CCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/XmlParser.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/XmlParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291424719.822545
+e291424719.907374
+r1
+xCompileC
+xbuild/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/XmlParser.o
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/XmlParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/XmlParser.m291424719#291424719#0(0"0(0#0#106"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/XmlParser.m4300911832#2580"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-generated-files.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-own-target-headers.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-all-target-headers.hmap" -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-project-headers.hmap" "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/include" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources/i386" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources" -include /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Classes/XmlParser.m" -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/XmlParser.o"0#
+
+CCompileC build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/main.o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291424719.056630
+e291424719.131193
+r1
+xCompileC
+xbuild/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/main.o
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/main.m291424719#291424719#0(0"0(0#0#93"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/main.m4300911832#2562"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-generated-files.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-own-target-headers.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-all-target-headers.hmap" -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-project-headers.hmap" "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/include" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources/i386" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources" -include /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/main.m" -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/EndGame.xib"
+r0
+
+CCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Game.xib"
+r0
+
+CCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/GameMode.xib"
+r0
+
+CCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Help.xib"
+r0
+
+CCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Intro.xib"
+r0
+
+CCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/MainWindow.xib"
+r0
+
+CCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/NextLevel.xib"
+r0
+
+CCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Paused.xib"
+r0
+
+CCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/PostScore.xib"
+r0
+
+CCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/SavedGame.xib"
+r0
+
+CCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/SavedGameCellScreen.xib"
+r0
+
+CCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Start.xib"
+r0
+
+CCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/TopScore.xib"
+r0
+
+CCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/TopScoreCell.xib"
+r0
+
+CCompileXIB "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/Winner.xib"
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/Default.png Default.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/Icon.png Icon.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/a.png a.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/ambiental.mp3 ambiental.mp3
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/b.png b.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/beba.sqlite beba.sqlite
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/bgkBackground.png bgkBackground.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/bgkGameScreen.png bgkGameScreen.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/bgkGameStats.png bgkGameStats.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/bgkInfo.png bgkInfo.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/bgkStart.png bgkStart.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/bgkWidescreen.png bgkWidescreen.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/bgkWinner.png bgkWinner.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/bonus.aif bonus.aif
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/btnContinueGame.png btnContinueGame.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/btnContinueLevel.png btnContinueLevel.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/btnContinueSavedGame.png btnContinueSavedGame.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/btnDiscardGame.png btnDiscardGame.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/btnEasy.png btnEasy.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/btnHard.png btnHard.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/btnLetter.png btnLetter.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/btnLetterUnderscore.png btnLetterUnderscore.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/btnNormal.png btnNormal.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/btnOk.png btnOk.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/btnPostScore.png btnPostScore.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/btnQuestion.png btnQuestion.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/btnQuit.png btnQuit.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/btnResume.png btnResume.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/btnStartGame.png btnStartGame.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/btnTimeChallenge.png btnTimeChallenge.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/btnTopScore.png btnTopScore.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/btnViewTopPlayer.png btnViewTopPlayer.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/c.png c.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/d.png d.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/e.png e.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/f.png f.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/g.png g.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/game.sqlite game.sqlite
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/h.png h.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/i.png i.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/imgArrow.png imgArrow.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/imgBackToStart.png imgBackToStart.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/imgClose.png imgClose.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/imgGoBack.png imgGoBack.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/imgGoBack2.png imgGoBack2.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/imgLoading.png imgLoading.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/imgLogo.png imgLogo.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/imgQuestion.png imgQuestion.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/imgRefresh.png imgRefresh.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/imgSkipWord.png imgSkipWord.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/imgSpin.png imgSpin.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/j.png j.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/k.png k.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/l.png l.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/lost.aif lost.aif
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/m.png m.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/n.png n.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/o.png o.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/p.png p.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/q.png q.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/r.png r.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/s.png s.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/score.aif score.aif
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/spin.aif spin.aif
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/t.png t.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/time.aif time.aif
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/touch.aif touch.aif
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/txtAbout.png txtAbout.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/txtTopScore.png txtTopScore.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/txtTopScoreHeader.png txtTopScoreHeader.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/u.png u.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/v.png v.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/w.png w.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/x.png x.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/y.png y.png
+r0
+
+CCpResource build/Release-iphonesimulator/WordChallenge.app/z.png z.png
+r0
+
+CGenerateDSYMFile "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app.dSYM" "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/WordChallenge"
+s291424720.529203
+e291424720.616095
+r1
+xGenerateDSYMFile
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app.dSYM
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/WordChallenge
+lSLF07#2@131"GenerateDSYMFile build/Release-iphonesimulator/WordChallenge.app.dSYM build/Release-iphonesimulator/WordChallenge.app/WordChallenge291424720#291424720#0(0"0(0#0#148"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/WordChallenge4300911832#555"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/WordChallenge" -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app.dSYM"0#
+
+CLd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/WordChallenge" normal i386
+s291424720.301374
+e291424720.529081
+r1
+xLd
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/WordChallenge
+xnormal
+xi386
+lSLF07#2@153"Link /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/WordChallenge291424720#291424720#0(0"0(0#0#0"4300911832#1345"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk "-L/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" -L/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" -filelist "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/Objects-normal/i386/WordChallenge.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3.0 -framework AudioToolbox -framework AVFoundation -o "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/WordChallenge"0#
+
+CProcessInfoPlistFile "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app/Info.plist" WordChallenge-Info.plist
+r0
+
+CProcessPCH /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch.gch WordChallenge_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s291424718.208472
+e291424719.056511
+r1
+xProcessPCH
+x/var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch.gch
+xWordChallenge_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile WordChallenge_Prefix.pch291424718#291424719#0(0"0(0#0#111"/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WordChallenge_Prefix.pch4300911832#2396"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-generated-files.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-own-target-headers.hmap" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-all-target-headers.hmap" -iquote "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/WordChallenge-project-headers.hmap" "-F/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/include" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources/i386" "-I/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/WordChallenge.build/Release-iphonesimulator/WordChallenge.build/DerivedSources" -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/WordChallenge_Prefix.pch" -o /var/folders/f9/f9P69kmrFee9XEVTNggMl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WordChallenge_Prefix-emkvbojwygbtmeddsrpxyjowjkqq/WordChallenge_Prefix.pch.gch0#
+
+CTouch "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app"
+s291424720.616211
+e291424720.619185
+r1
+xTouch
+x/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app
+lSLF07#2@140"Touch /Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app291424720#291424720#0(0"0(0#0#0"4300911832#386"    cd "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/OSX/Users/Nguyen/Desktop/Projects/Beba/Apps/Beba Word Challenge/WordChallenge/build/Release-iphonesimulator/WordChallenge.app"0#
+
