@@ -3,6 +3,8 @@ This repository contain the entire codebase used to create the Beba Word Challen
 
 http://download.cnet.com/Beba-Word-Challenge/3000-20416_4-75010551.html
 
+
+![App Logo](https://image.ibb.co/fP0jtQ/logo.jpg)
 ![Screenshot 1](https://image.ibb.co/eRfjtQ/screenshot1.jpg)
 ![Screenshot 2](https://image.ibb.co/fnoF05/screenshot2.jpg)
 
